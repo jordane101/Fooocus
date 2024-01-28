@@ -1,4 +1,5 @@
 __pycache__
+*.dll
 *.ckpt
 *.safetensors
 *.pth
@@ -51,3 +52,4 @@ user_path_config-deprecated.txt
 /package-lock.json
 /.coverage*
 /auth.json
+/fooocus_venv/
